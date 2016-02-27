@@ -1,0 +1,7 @@
+*
+!*.gitignore
+!*/
+!*.vb
+!*.vbproj
+!*.sln
+!*.cfg
